@@ -1,6 +1,6 @@
 {
   "name": "@blacksmithstudio/blockbase-twitter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "blockbase driver for Twitter API related manipulations",
   "main": "driver.js",
   "scripts": {
