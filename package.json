@@ -1,10 +1,10 @@
 {
-  "name": "@blacksmithstudio/blockbase-twitter",
+  "name": "blockbase-twitter",
   "version": "1.0.1",
   "description": "blockbase driver for Twitter API related manipulations",
   "main": "driver.js",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha --exit"
   },
   "repository": {
     "type": "git",

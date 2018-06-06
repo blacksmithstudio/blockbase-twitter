@@ -8,7 +8,7 @@ Compatible with Blockbase Framework
 Twitter driver is really easy to use, first install it as any Blockbase driver.
 
 ```shell
-$ npm i --save @blacksmithstudio/blockbase-twitter
+$ npm i --save blockbase-twitter
 ```
 
 ### Usage
