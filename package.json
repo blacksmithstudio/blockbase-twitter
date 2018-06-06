@@ -1,6 +1,6 @@
 {
   "name": "blockbase-twitter",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "blockbase driver for Twitter API related manipulations",
   "main": "driver.js",
   "scripts": {
